@@ -1,6 +1,6 @@
 # Most Streamed Spotify Songs 2024 - Exploratory Data Analysis
 
-![Spotify](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024)
+[Most Streamed Spotify Songs 2024 Dataset on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024)
 
 **Authors:** Mani Atwal & Paul Ng  
 
