@@ -22,8 +22,7 @@ Key objectives:
 The dataset contains multi-platform streaming metrics and metadata for top Spotify tracks in 2024.
 
 **Key columns:**
-- `Spotify Streams`, `Spotify Popularity`, `Spotify Playlist Count`, `YouTube Views`, `TikTok Views`
-- `Artist`, `Track`, `Explicit Track`, `Release Date`
+- `Spotify Streams`, `Spotify Popularity`, `Spotify Playlist Count`, `YouTube Views`, `TikTok Views`, `Artist`, `Track`, `Explicit Track`, `Release Date`
 
 **Data Cleaning Steps:**
 - Removed null or irrelevant columns (e.g., TIDAL Popularity)
